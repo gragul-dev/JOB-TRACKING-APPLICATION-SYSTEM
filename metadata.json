@@ -1,0 +1,6 @@
+{
+  "name": "JobTrack - Career Pipeline & Application Tracker",
+  "description": "An elegant dark job application tracker and interview management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
